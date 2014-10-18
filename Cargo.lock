@@ -1,0 +1,12 @@
+[root]
+name = "tsdnsx"
+version = "0.0.1"
+dependencies = [
+ "rust-ini 0.3.0 (git+https://github.com/zonyitoo/rust-ini.git#0f8c06b207ada7ad6b1356154a44bd843711c77c)",
+]
+
+[[package]]
+name = "rust-ini"
+version = "0.3.0"
+source = "git+https://github.com/zonyitoo/rust-ini.git#0f8c06b207ada7ad6b1356154a44bd843711c77c"
+
